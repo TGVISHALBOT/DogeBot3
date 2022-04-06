@@ -79,10 +79,8 @@ const fakeimage = fs.readFileSync ('./media/dogepic1.jpg')
 const thumb = fs.readFileSync ('./media/dogetb.jpg')
 
 //══════════[ Developer Number ]══════════//
-
-developerNo = 923361266536'
-developerName= 'VISHAL'
-
+developerNo = '916909137213'
+developerName= '🦄Dream Guy Xeon'
 //══════════[ Apikeys ]══════════//
 //----credit goes to all the respected owner---//
 
